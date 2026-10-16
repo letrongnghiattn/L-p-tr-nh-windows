@@ -1,0 +1,9 @@
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\bin\Debug\Quanlythongtinhocvien.exe.config
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\bin\Debug\Quanlythongtinhocvien.exe
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\bin\Debug\Quanlythongtinhocvien.pdb
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.csproj.AssemblyReference.cache
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.Form1.resources
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.csproj.GenerateResource.cache
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.csproj.CoreCompileInputs.cache
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.exe
+C:\Nghia\Lập trình window\Quanlythongtinhocvien\Quanlythongtinhocvien\obj\Debug\Quanlythongtinhocvien.pdb
